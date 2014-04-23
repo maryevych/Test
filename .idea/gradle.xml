@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="E:\Development\Android\Test" />
-            <option value="E:\Development\Android\Test\app" />
+            <option value="D:\Development\Android\Ukrpost\Test" />
+            <option value="D:\Development\Android\Ukrpost\Test\app" />
           </set>
         </option>
       </GradleProjectSettings>
